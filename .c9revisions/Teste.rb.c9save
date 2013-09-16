@@ -1,0 +1,3 @@
+{"ts":1378772251425,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"puts \"Oi\""]],"start1":0,"start2":0,"length1":0,"length2":9}]],"length":9}
+{"contributors":[],"silentsave":false,"ts":1378772761734,"patch":[[{"diffs":[[0,"uts \"Oi\""],[1,"\n\nputs \"funfaaaa\""]],"start1":1,"start2":1,"length1":8,"length2":25}]],"length":26,"saved":false}
+{"ts":1378773116842,"patch":[[{"diffs":[[0,"unfaaaa\""],[1,"\n\n#git init \n#git status\n#git add.\n#git status\n#git commit\n\n#git push origin\n\n#git config --global push.default matching\n\n#git push origin"]],"start1":18,"start2":18,"length1":8,"length2":146}]],"length":164,"saved":false}
